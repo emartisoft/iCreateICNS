@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>file.png</file>
+        <file>emarti.png</file>
+    </qresource>
+</RCC>
